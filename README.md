@@ -1,0 +1,1 @@
+These are my exercises for the [Boston PHP Group's](http://www.meetup.com/bostonphp/) [jQuery jAM, Season 6 Meetup](http://www.meetup.com/bostonphp/events/222679706/) 
